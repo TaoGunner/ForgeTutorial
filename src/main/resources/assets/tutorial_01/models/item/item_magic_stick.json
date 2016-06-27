@@ -1,0 +1,7 @@
+{
+	"parent": "item/handheld_rod",
+	"textures":
+	{
+		"layer0": "tutorial_01:items/item_magic_stick"
+	}
+}

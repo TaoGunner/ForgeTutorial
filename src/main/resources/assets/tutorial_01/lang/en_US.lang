@@ -1,0 +1,8 @@
+itemGroup.tutorial_01.tabTutorial01=Tutorial #01 Tab
+
+item.tutorial_01:item_simple.name=Simple Item
+item.tutorial_01:item_with_tooltip.name=Tooltip Item
+item.tutorial_01:item_weapon_cutter.name=Cutting Pliers
+item.tutorial_01:item_magic_stick.name=Magic Stick
+
+tooltip.tutorial_01:item_with_tooltip.text=That string store in en_US.lang file

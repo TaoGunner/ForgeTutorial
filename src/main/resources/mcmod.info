@@ -1,0 +1,30 @@
+[
+	{
+		"modid": "tutorial_01",
+		"name": "Tutorial #01 Mod",
+		"description": "Item tutorial",
+		"version": "${version}",
+		"mcversion": "${mcversion}",
+		"url": "http://mcmodding.ru/",
+		"updateUrl": "",
+		"authorList": ["TaoGunner"],
+		"credits": "The Forge and FML guys, for making this API",
+		"logoFile": "",
+		"screenshots": [],
+		"dependencies": []
+	},
+	{
+		"modid": "tutorial_02",
+		"name": "Tutorial #02 Mod",
+		"description": "Bla bla bla",
+		"version": "${version}",
+		"mcversion": "${mcversion}",
+		"url": "http://mcmodding.ru/",
+		"updateUrl": "",
+		"authorList": ["TaoGunner"],
+		"credits": "The Forge and FML guys, for making this API",
+		"logoFile": "",
+		"screenshots": [],
+		"dependencies": []
+	}
+]

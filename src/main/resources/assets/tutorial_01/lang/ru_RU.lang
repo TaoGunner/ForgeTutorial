@@ -1,0 +1,8 @@
+itemGroup.tutorial_01.tabTutorial01=Вкладка урока №01
+
+item.tutorial_01:item_simple.name=Простой предмет
+item.tutorial_01:item_with_tooltip.name=Предмет с Описанием
+item.tutorial_01:item_weapon_cutter.name=Бокорезы
+item.tutorial_01:item_magic_stick.name=Волшебная палочка
+
+tooltip.tutorial_01:item_with_tooltip.text=Эта строка хриниться в файле ru_RU.lang
