@@ -5,5 +5,6 @@ public class CommonProxy
 	public void preInit()
 	{
 		CommonRegistryHandler.registerItems();
+		CommonRegistryHandler.registerSounds();
 	}
 }

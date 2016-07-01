@@ -1,0 +1,9 @@
+{
+	"music.block_radio_sound": {
+	"category": "music",
+    "subtitle": "tutorial_02.music.block_radio_sound",
+    "sounds": [
+            "tutorial_02:music/game/block_radio_song"
+        ]
+    }
+}
