@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "tutorial_02:block_simple" }
+    }
+}

@@ -12,7 +12,7 @@ import today.fallout.tutorial_01.common.CommonProxy;
 	1. [ @Mod ] Указать уникальный идентификатор мода (MODID) и его версию (VERSION)
     2. [ @Mod.Instance ] Указать Forge на @Mod.Instance(MODID) мода
     3. [ @SidedProxy ] Указать пути до Прокси-классов
-    4. [ @Mod.EventHandler ] Определить действия при том или ином этапе загрузки мода
+    4. [ @Mod.EventHandler ] Определить действия при различных этапах загрузки мода
 */
 @Mod(modid = TutorialMod.MODID, name = TutorialMod.NAME, version = TutorialMod.VERSION)
 public class TutorialMod

@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "tutorial_02:blocks/block_sided_top",
+    "front": "tutorial_02:blocks/block_sided_front_off",
+    "side": "tutorial_02:blocks/block_sided_side"
+  }
+}
